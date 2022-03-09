@@ -68,6 +68,12 @@ margin-bottom: 0%;
     color: white;
 }
 
+.main img {
+    display: block;
+    margin: auto;
+    height: 500px;
+    width: 500px;
+}
 /* column split */
 
 .column {
